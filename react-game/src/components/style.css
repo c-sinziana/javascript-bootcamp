@@ -1,0 +1,13 @@
+.boardContainer {
+    display: flex;
+    flex-direction: column;
+    width: 90rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.tableLine {
+    border: 1rem solid grey;
+    width: 10rem;
+    height: 10rem;
+}
